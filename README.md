@@ -13,7 +13,7 @@ Sichuan University – Pittsburgh Institute
 - Large Language Models for Healthcare
 
 ## Curriculum Vitae
-📄 [View My Academic CV](./CV_ZHUOHAO WU_202610.pdf)
+📄 [View My Academic CV](./CV_ZHUOHAO%20WU_202610.pdf)
 
 ## Contact
 Email: wuzhuohao@stu.scu.edu.cn
